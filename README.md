@@ -1,2 +1,2 @@
-# php-composer-swoole
-php composer swoole
+# docker-composer-swoole
+docker php composer swoole
